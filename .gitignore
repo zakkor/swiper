@@ -4,6 +4,7 @@ build/**/*.*
 !build/core/package.json
 !build/swiper.esm.js
 !build/esm/**/*.*
+!build/swiper-bundle.css
 !build/bundle/package.json
 !build/react/package.json
 !build/svelte/package.json
